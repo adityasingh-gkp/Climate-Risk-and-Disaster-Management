@@ -7,4 +7,4 @@
 
 ## Files
 - Week 1 Project.ipynb → Jupyter Notebook with code
-- data.csv → Dataset used
+- earthquake.csv → Dataset used
